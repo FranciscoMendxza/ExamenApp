@@ -26,9 +26,9 @@ public class Resultado extends AppCompatActivity {
         int puntosValor = getIntent().getIntExtra("puntos", 0);
 
         // Establece los valores en los TextView
-        aciertos.setText("Aciertos: " + aciertosValor);
-        errores.setText("Errores: " + erroresValor);
-        resultado.setText("Calificación: " + puntosValor);
+        aciertos.setText(+ aciertosValor);
+        errores.setText(erroresValor);
+        resultado.setText(puntosValor);
 
         salir.setOnClickListener(view -> {
             finish();
