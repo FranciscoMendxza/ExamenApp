@@ -1,11 +1,16 @@
 <resources>
     <string name="app_name">ExamenApp</string>
-    <string name="Titulo">Examen\n</string>
+    <string name="Titulo">Bienvenido</string>
     <string name="btncalificar">Calificar</string>
     <string name="btnanterior">Anterior</string>
     <string name="btnsiguiente">Siguiente</string>
-    <string name="pregunta1">Pregunta 1.\n\n ¿Cuantos planetas tiene el sistema solar?</string>
-    <string name="r1">8</string>
-    <string name="r2">10</string>
-    <string name="r3">7</string>
+    <string name="imgdescription">Imagen del tecnologico</string>
+    <string name="btncomenzar">Comenzar examen</string>
+    <string name="titulos">Examen</string>
+    <string name="txtresutlado">Resultados</string>
+    <string name="lblaciertos">"Aciertos: "</string>
+    <string name="lblfallos">"Errores: "</string>
+    <string name="lblcalificacion">"Calificacion: "</string>
+    <string name="btnsalir">Salir</string>
+
 </resources>
